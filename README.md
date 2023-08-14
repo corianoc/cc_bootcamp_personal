@@ -1,1 +1,3 @@
-# cc_bootmcamp_personal
+# jb_bootcamp
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
