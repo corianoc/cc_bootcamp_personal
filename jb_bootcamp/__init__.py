@@ -5,6 +5,6 @@
 from .na_utils import *
 from .bioinfo_dicts import *
 
-__author__ = 'Justin Bois'
-__email__ = 'bois@caltech.edu'
+__author__ = 'Cristian Coriano'
+__email__ = 'corianoc@bu.edu'
 __version__ = '0.0.1'
